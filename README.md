@@ -5,7 +5,7 @@ The dataset contains 290 trajectories collected across 3 floors of C4 building o
 The RSS values with corresponding position coordinates (x,y,z) are recorded around every 4-5 seconds.
 | #Buildings  | #Floors   | #Reference points (RP)  | #Samples  | #Wireless access points (WAP) | #Trajectories | Area (m<sup>2</sup>)
 |:-----------:|:---------:|:-----------------------:|:---------:|:-----------------------------:|:-------------:|:--------:
-| 1           | 3         | 25,791                  | 25,791    | 299                           | 290           | 5,100
+| 1           | 3         | 25,791                  | 25,791    | 299                           | 290           | 9,564
 
 # Authors
 Yerbolat Khassanov, Mukhamet Nurpeiissov, Azamat Sarkytbayev, Askat Kuzdeuov and Huseyin Atakan Varol
