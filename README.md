@@ -13,7 +13,7 @@ The RSS values with corresponding position coordinates (x,y,z) are recorded arou
 |Train      |120            |18,975                   |18,975     |≈31,814          |112,321
 |Validation |85             |3,034                    |3,034      |≈4,789           |17,280
 |Test       |85             |3,781                    |3,781      |≈6,162           |22,116
-|**Total**  |290            |25,790                   |25,790     |**≈42,765**      |**151,717**
+|**Total**  |**290**        |**25,790**               |**25,790** |**≈42,765**      |**151,717**
 
 # Authors
 Yerbolat Khassanov, Mukhamet Nurpeiissov, Azamat Sarkytbayev, Askat Kuzdeuov and Huseyin Atakan Varol
