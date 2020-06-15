@@ -1,12 +1,12 @@
 # WiFine
 A finer-level sequential dataset of WiFi received signal strengths (RSS).
 The dataset contains 290 trajectories collected across 3 floors of C4 building of Nazarbayev University.
-The RSS values with corresponding position coordinates (x,y,z) are recorded around every 4-5 seconds.
+The RSS values with corresponding position coordinates (x,y,z) are recorded around every 5 seconds.
 
 ## Dataset statistics
 | #Buildings  | #Floors   | #Wireless access points (WAP) | Area (m<sup>2</sup>)
 |:-----------:|:---------:|:-----------------------------:|:--------:
-| 1           | 3         | 299                           |9,564
+| 1           | 3         | 436                           |9,564
 
 | Sets      |#Trajectories  |#Reference points (RP)   |#Samples   |Total length (m) | Total duration (s)
 |:---------:|:-------------:|:-----------------------:|:---------:|:---------------:|:---------:
