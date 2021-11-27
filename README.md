@@ -17,3 +17,16 @@ The RSS values with corresponding position coordinates (x,y,z) are recorded arou
 
 ## Authors
 Yerbolat Khassanov, Mukhamet Nurpeiissov, Azamat Sarkytbayev, Askat Kuzdeuov and Huseyin Atakan Varol
+
+## Citation
+
+```bibtex
+@inproceedings{khassanov2021finer,
+  title={Finer-level Sequential WiFi-based Indoor Localization},
+  author={Khassanov, Yerbolat and Nurpeiissov, Mukhamet and Sarkytbayev, Azamat and Kuzdeuov, Askat and Varol, Huseyin Atakan},
+  booktitle={2021 IEEE/SICE International Symposium on System Integration (SII)},
+  pages={163--169},
+  year={2021},
+  organization={IEEE}
+}
+```
