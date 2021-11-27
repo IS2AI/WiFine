@@ -15,11 +15,8 @@ The RSS values with corresponding position coordinates (x,y,z) are recorded arou
 |Test       |85             |3,781                    |3,781      |≈6,162           |22,116
 |**Total**  |**290**        |**25,790**               |**25,790** |**≈42,765**      |**151,717**
 
-## Authors
-Yerbolat Khassanov, Mukhamet Nurpeiissov, Azamat Sarkytbayev, Askat Kuzdeuov and Huseyin Atakan Varol
 
 ## Citation
-
 ```bibtex
 @inproceedings{khassanov2021finer,
   title={Finer-level Sequential WiFi-based Indoor Localization},
